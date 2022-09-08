@@ -17,4 +17,4 @@ git clone https://github.com/athieghi/FullCycleDockerNodeNginx.git
 
 cd FullCycleDockerNodeNginx
 
-docker-compose up [-d]
+docker-compose up -d
